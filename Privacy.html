@@ -1,0 +1,7 @@
+We protect the privacy and legal rights of users. 
+If the users provide ,Product accesses or uses, user names, passwords, or other login information or personal information, 
+we  make the users aware that the information will be available to our Product, and we provide legally adequate privacy notice and protection for those users. 
+Further, our Product may only use that information for the limited purposes for which the user has given us permission to do so. 
+If our Product stores personal or sensitive information provided by users, it  do so securely and only for as long as it is needed. 
+But if the user has opted into a separate agreement with us that allows we or our Product to store or use personal or sensitive information directly related to our Product (not including other products or applications) then the terms of that separate agreement will govern our use of such information. If the user provides our Product with Google Account information, our Product  only use that information to access the user’s Google Account when, and for the limited purposes for which, the user has given us permission to do so. If our Product (or any part thereof) targets or directs itself to users under the age of consent, we ensure that such Product (or any part thereof) is compliant with applicable laws or 
+regulations at all times (including as applicable, the U.S. Children's Online Privacy (COPPA) and E.U. General Data Protection Regulation (GDPR)).
